@@ -1,0 +1,4 @@
+[tools]
+python = "latest"
+task = "latest"
+uv = "latest"
